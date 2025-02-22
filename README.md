@@ -54,4 +54,4 @@ Once you open the Remote Desktop Client, click "add PC." Now, you can enter the 
 
 You have successfully implemented all the steps required to create and configure a virtual machine in Azure and access it remotely. Once the VM is running, you'll need to configure the operating system. This includes: Setting up additional user accounts if multiple users need access, installing necessary software and updates to ensure the OS is up-to-date, and configuring system settings according to your requirements (like network, firewall settings, etc.). 
 
-Tutorial Complete.
+That's the end of this tutorial.
