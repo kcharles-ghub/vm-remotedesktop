@@ -46,7 +46,7 @@ You can go ahead and click "next" for the disc section and then "next" again for
 Assuming everything looks good, you will see a message displaying "Validation Passed." You can now proceed to click "create" and your virtual machine deployment process will begin. It should only take a few minutes for our resource group, VM, and other resources to be created. Once it's finished and ready to go, we will copy the Virtual Machines public IP address and head over to the Remote Desktop Connection Client. You can search for "Remote Desktop Connection" in the Windows Start menu.
 
 <p align="center"><img src="https://i.imgur.com/4hn19Hv.png"/>
-<img src="https://i.imgur.com/LXLJzFd.png"/></p>
+<img src="https://i.imgur.com/IcjPMMo.png"/></p>
 
 Once you open the Remote Desktop Client, click "add PC." Now, you can enter the public IP address of the VM you created. Then, you must specify the username and password set up during the virtual machine configuration. You will likely get a pop-up warning that the certificate cannot be verified. It will then ask you if you would like to proceed anyway. This is totally normal; you can go ahead and click "connect."
 
