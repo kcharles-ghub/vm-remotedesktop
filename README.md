@@ -27,7 +27,7 @@ This tutorial explains how to create a Resource Group and Virtual Machine in Mic
 <img src="https://i.imgur.com/r4iWNOj.png"/></p>
 
 You can use the Azure Portal to create a Virtual Machine. Once inside the portal, navigate to "Virtual machines" and select "Add" to start the creation process. 
-The first thing we will do is actually go ahead and "create new" resource group. You can name this anything, but for the sake of this project, I chose to name mine RG-Portfolio. Then, I chose the VM portfolio name for my VM name. Now, it's time to configure it. 
+The first thing we will do is actually go ahead and "create new" resource group. You can name this anything, but for the sake of this project, I chose to name mine RG-Azure-Portfolio. Then, I chose the VM portfolio name for my VM name. Now, it's time to configure it. 
 
 <p align="center"><img src="https://i.imgur.com/vJ1ZE45.png"/>
 <img src="https://i.imgur.com/2LYm1l7.png"/>
