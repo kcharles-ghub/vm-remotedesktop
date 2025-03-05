@@ -23,7 +23,7 @@ This tutorial explains how to create a Resource Group and Virtual Machine in Mic
 
 <h2>Steps to Deploy</h2>
 
-<p align="center"><img src="https://i.imgur.com/AILFUeS.png"/>
+<p align="center"><img src="https://i.imgur.com/o3U1IKP.png"/>
 <img src="https://i.imgur.com/r4iWNOj.png"/></p>
 
 You can use the Azure Portal to create a Virtual Machine. Once inside the portal, navigate to "Virtual machines" and select "Add" to start the creation process. 
