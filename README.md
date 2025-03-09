@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/HP5KApn.jpeg"/></p>
+<p align="center"><img src="https://i.imgur.com/i6HiERh.png"/></p>
 
 
 <h1>Azure Virtual Machines with Remote Desktop</h1>
